@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<NETSIM_ANIMATION>
+ <!--NETSIM_ANIMATION-->
+ <MENU NAME="IP Table" isNewScreen="false">
+  <MENU NAME="VIDEO_SERVER" isNewScreen="true" FileName="Animation_VIDEO_SERVER.txt" Type="table"/>
+  <MENU NAME="ROUTER_2" isNewScreen="true" FileName="Animation_ROUTER_2.txt" Type="table"/>
+  <MENU NAME="ROUTER C" isNewScreen="true" FileName="Animation_ROUTER_C.txt" Type="table"/>
+  <MENU NAME="ROUTER D" isNewScreen="true" FileName="Animation_ROUTER_D.txt" Type="table"/>
+  <MENU NAME="ROUTER E" isNewScreen="true" FileName="Animation_ROUTER_E.txt" Type="table"/>
+  <MENU NAME="ROUTER F" isNewScreen="true" FileName="Animation_ROUTER_F.txt" Type="table"/>
+  <MENU NAME="ROUTER G" isNewScreen="true" FileName="Animation_ROUTER_G.txt" Type="table"/>
+  <MENU NAME="ROUTER H" isNewScreen="true" FileName="Animation_ROUTER_H.txt" Type="table"/>
+  <MENU NAME="DISPLAY I" isNewScreen="true" FileName="Animation_DISPLAY_I.txt" Type="table"/>
+  <MENU NAME="DISPLAY J" isNewScreen="true" FileName="Animation_DISPLAY_J.txt" Type="table"/>
+  <MENU NAME="DISPLAY K" isNewScreen="true" FileName="Animation_DISPLAY_K.txt" Type="table"/>
+  <MENU NAME="DISPLAY L" isNewScreen="true" FileName="Animation_DISPLAY_L.txt" Type="table"/>
+  <MENU NAME="DISPLAY M" isNewScreen="true" FileName="Animation_DISPLAY_M.txt" Type="table"/>
+  <MENU NAME="DISPLAY N" isNewScreen="true" FileName="Animation_DISPLAY_N.txt" Type="table"/>
+  <MENU NAME="DISPLAY O" isNewScreen="true" FileName="Animation_DISPLAY_O.txt" Type="table"/>
+  <MENU NAME="DISPLAY P" isNewScreen="true" FileName="Animation_DISPLAY_P.txt" Type="table"/>
+  <MENU NAME="DISPLAY Q" isNewScreen="true" FileName="Animation_DISPLAY_Q.txt" Type="table"/>
+  <MENU NAME="DISPLAY R" isNewScreen="true" FileName="Animation_DISPLAY_R.txt" Type="table"/>
+  <MENU NAME="DISPLAY S" isNewScreen="true" FileName="Animation_DISPLAY_S.txt" Type="table"/>
+  <MENU NAME="DISPLAY T" isNewScreen="true" FileName="Animation_DISPLAY_T.txt" Type="table"/>
+  <MENU NAME="DISPLAY U" isNewScreen="true" FileName="Animation_DISPLAY_U.txt" Type="table"/>
+  <MENU NAME="DISPLAY V" isNewScreen="true" FileName="Animation_DISPLAY_V.txt" Type="table"/>
+  <MENU NAME="DISPLAY W" isNewScreen="true" FileName="Animation_DISPLAY_W.txt" Type="table"/>
+  <MENU NAME="DISPLAY X" isNewScreen="true" FileName="Animation_DISPLAY_X.txt" Type="table"/>
+  <MENU NAME="DISPLAY Y" isNewScreen="true" FileName="Animation_DISPLAY_Y.txt" Type="table"/>
+  <MENU NAME="DISPLAY Z" isNewScreen="true" FileName="Animation_DISPLAY_Z.txt" Type="table"/>
+  <MENU NAME="DISPLAY AA" isNewScreen="true" FileName="Animation_DISPLAY_AA.txt" Type="table"/>
+  <MENU NAME="DISPLAY AB" isNewScreen="true" FileName="Animation_DISPLAY_AB.txt" Type="table"/>
+  <MENU NAME="DISPLAY AC" isNewScreen="true" FileName="Animation_DISPLAY_AC.txt" Type="table"/>
+  <MENU NAME="DISPLAY AD" isNewScreen="true" FileName="Animation_DISPLAY_AD.txt" Type="table"/>
+  <MENU NAME="DISPLAY AE" isNewScreen="true" FileName="Animation_DISPLAY_AE.txt" Type="table"/>
+  <MENU NAME="DISPLAY AF" isNewScreen="true" FileName="Animation_DISPLAY_AF.txt" Type="table"/>
+  <MENU NAME="DISPLAY AG" isNewScreen="true" FileName="Animation_DISPLAY_AG.txt" Type="table"/>
+  <MENU NAME="DISPLAY AH" isNewScreen="true" FileName="Animation_DISPLAY_AH.txt" Type="table"/>
+  <MENU NAME="DISPLAY AI" isNewScreen="true" FileName="Animation_DISPLAY_AI.txt" Type="table"/>
+  <MENU NAME="DISPLAY AJ" isNewScreen="true" FileName="Animation_DISPLAY_AJ.txt" Type="table"/>
+  <MENU NAME="DISPLAY AK" isNewScreen="true" FileName="Animation_DISPLAY_AK.txt" Type="table"/>
+  <MENU NAME="DISPLAY AL" isNewScreen="true" FileName="Animation_DISPLAY_AL.txt" Type="table"/>
+  <MENU NAME="DISPLAY AM" isNewScreen="true" FileName="Animation_DISPLAY_AM.txt" Type="table"/>
+  <MENU NAME="DISPLAY AN" isNewScreen="true" FileName="Animation_DISPLAY_AN.txt" Type="table"/>
+  <MENU NAME="DISPLAY AO" isNewScreen="true" FileName="Animation_DISPLAY_AO.txt" Type="table"/>
+  <MENU NAME="DISPLAY AP" isNewScreen="true" FileName="Animation_DISPLAY_AP.txt" Type="table"/>
+  <MENU NAME="DISPLAY AQ" isNewScreen="true" FileName="Animation_DISPLAY_AQ.txt" Type="table"/>
+  <MENU NAME="DISPLAY AR" isNewScreen="true" FileName="Animation_DISPLAY_AR.txt" Type="table"/>
+  <MENU NAME="DISPLAY AS" isNewScreen="true" FileName="Animation_DISPLAY_AS.txt" Type="table"/>
+  <MENU NAME="DISPLAY AT" isNewScreen="true" FileName="Animation_DISPLAY_AT.txt" Type="table"/>
+  <MENU NAME="DISPLAY AU" isNewScreen="true" FileName="Animation_DISPLAY_AU.txt" Type="table"/>
+  <MENU NAME="DISPLAY AV" isNewScreen="true" FileName="Animation_DISPLAY_AV.txt" Type="table"/>
+  <MENU NAME="DISPLAY AW" isNewScreen="true" FileName="Animation_DISPLAY_AW.txt" Type="table"/>
+  <MENU NAME="DISPLAY AX" isNewScreen="true" FileName="Animation_DISPLAY_AX.txt" Type="table"/>
+  <MENU NAME="DISPLAY AY" isNewScreen="true" FileName="Animation_DISPLAY_AY.txt" Type="table"/>
+  <MENU NAME="DISPLAY AZ" isNewScreen="true" FileName="Animation_DISPLAY_AZ.txt" Type="table"/>
+  <MENU NAME="DISPLAY BA" isNewScreen="true" FileName="Animation_DISPLAY_BA.txt" Type="table"/>
+  <MENU NAME="DISPLAY BB" isNewScreen="true" FileName="Animation_DISPLAY_BB.txt" Type="table"/>
+  <MENU NAME="DISPLAY BC" isNewScreen="true" FileName="Animation_DISPLAY_BC.txt" Type="table"/>
+  <MENU NAME="DISPLAY BD" isNewScreen="true" FileName="Animation_DISPLAY_BD.txt" Type="table"/>
+  <MENU NAME="DISPLAY BE" isNewScreen="true" FileName="Animation_DISPLAY_BE.txt" Type="table"/>
+  <MENU NAME="DISPLAY BF" isNewScreen="true" FileName="Animation_DISPLAY_BF.txt" Type="table"/>
+  <MENU NAME="DISPLAY BG" isNewScreen="true" FileName="Animation_DISPLAY_BG.txt" Type="table"/>
+  <MENU NAME="DISPLAY BH" isNewScreen="true" FileName="Animation_DISPLAY_BH.txt" Type="table"/>
+  <MENU NAME="DISPLAY BI" isNewScreen="true" FileName="Animation_DISPLAY_BI.txt" Type="table"/>
+  <MENU NAME="DISPLAY BJ" isNewScreen="true" FileName="Animation_DISPLAY_BJ.txt" Type="table"/>
+  <MENU NAME="DISPLAY BK" isNewScreen="true" FileName="Animation_DISPLAY_BK.txt" Type="table"/>
+  <MENU NAME="DISPLAY BL" isNewScreen="true" FileName="Animation_DISPLAY_BL.txt" Type="table"/>
+  <MENU NAME="DISPLAY BM" isNewScreen="true" FileName="Animation_DISPLAY_BM.txt" Type="table"/>
+  <MENU NAME="DISPLAY BN" isNewScreen="true" FileName="Animation_DISPLAY_BN.txt" Type="table"/>
+  <MENU NAME="DISPLAY BO" isNewScreen="true" FileName="Animation_DISPLAY_BO.txt" Type="table"/>
+  <MENU NAME="DISPLAY BP" isNewScreen="true" FileName="Animation_DISPLAY_BP.txt" Type="table"/>
+  <MENU NAME="MOBILE BR" isNewScreen="true" FileName="Animation_MOBILE_BR.txt" Type="table"/>
+  <MENU NAME="MOBILE BS" isNewScreen="true" FileName="Animation_MOBILE_BS.txt" Type="table"/>
+  <MENU NAME="MOBILE BT" isNewScreen="true" FileName="Animation_MOBILE_BT.txt" Type="table"/>
+  <MENU NAME="MOBILE BU" isNewScreen="true" FileName="Animation_MOBILE_BU.txt" Type="table"/>
+  <MENU NAME="MOBILE BV" isNewScreen="true" FileName="Animation_MOBILE_BV.txt" Type="table"/>
+  <MENU NAME="MOBILE BW" isNewScreen="true" FileName="Animation_MOBILE_BW.txt" Type="table"/>
+  <MENU NAME="MOBILE BX" isNewScreen="true" FileName="Animation_MOBILE_BX.txt" Type="table"/>
+  <MENU NAME="MOBILE BY" isNewScreen="true" FileName="Animation_MOBILE_BY.txt" Type="table"/>
+  <MENU NAME="MOBILE BZ" isNewScreen="true" FileName="Animation_MOBILE_BZ.txt" Type="table"/>
+  <MENU NAME="MOBILE CA" isNewScreen="true" FileName="Animation_MOBILE_CA.txt" Type="table"/>
+ </MENU>
+ <MENU NAME="Transmit_packet" isNewScreen="false" FileName="Animation_Transmit_packet.txt" Type="generic"/>
+</NETSIM_ANIMATION>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="CSMACA.c" />
+    <ClCompile Include="Generic_RateAdaptation.c" />
+    <ClCompile Include="IEEE802.11_OFDMPhy.c" />
+    <ClCompile Include="IEEE802_11.c" />
+    <ClCompile Include="IEEE802_11_DSSSPhy.c" />
+    <ClCompile Include="IEEE802_11_enum.c" />
+    <ClCompile Include="IEEE802_11_HTPhy.c" />
+    <ClCompile Include="IEEE802_11_Mac.c" />
+    <ClCompile Include="IEEE802_11_MacFrame.c" />
+    <ClCompile Include="IEEE802_11_Phy.c" />
+    <ClCompile Include="IEEE802_11_PhyFrame.c" />
+    <ClCompile Include="IEEE802_11_Radio.c" />
+    <ClCompile Include="IEEE802_11ac.c" />
+    <ClCompile Include="IEEE802_11e.c" />
+    <ClCompile Include="IEEE802_11n.c" />
+    <ClCompile Include="IEEE1609_interface.c" />
+    <ClCompile Include="InfrastructureBSS.c" />
+    <ClCompile Include="MeshBSS.c" />
+    <ClCompile Include="Minstrel.c" />
+    <ClCompile Include="Minstrel_ht.c" />
+    <ClCompile Include="PropagationModel.c" />
+    <ClCompile Include="RTS_CTS.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="IEEE802_11.h" />
+    <ClInclude Include="IEEE802_11_enum.h" />
+    <ClInclude Include="IEEE802_11_HTPhy.h" />
+    <ClInclude Include="IEEE802_11_MAC_Frame.h" />
+    <ClInclude Include="IEEE802_11_Phy.h" />
+    <ClInclude Include="IEEE802_11_PhyFrame.h" />
+    <ClInclude Include="IEEE802_11e.h" />
+    <ClInclude Include="Minstrel.h" />
+    <ClInclude Include="Minstrel_ht.h" />
+  </ItemGroup>
+</Project>

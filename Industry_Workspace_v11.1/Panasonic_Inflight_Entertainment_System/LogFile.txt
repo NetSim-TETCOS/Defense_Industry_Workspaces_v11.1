@@ -1,0 +1,383 @@
+Entering Network Stack
+
+In the initialization function
+Configuring 1 device..
+C:\Users\TETCOS-PC\Desktop\Industry_Workspace_v11.1\bin\bin_x86\libIP.dll>>fn_NetSim_IP_Init
+fn_NetSim_IP_Run
+fn_NetSim_IP_Trace
+fn_NetSim_IP_FreePacket
+fn_NetSim_IP_CopyPacket
+fn_NetSim_IP_Metrics
+fn_NetSim_IP_Finish
+fn_NetSim_IP_Configure
+fn_NetSim_IP_ConfigPacketTrace
+fn_NetSim_IP_WritePacketTrace
+C:\Users\TETCOS-PC\Desktop\Industry_Workspace_v11.1\bin\bin_x86\libARP.dll>>fn_NetSim_ARP_Init
+fn_NetSim_ARP_Run
+fn_NetSim_ARP_Trace
+fn_NetSim_ARP_FreePacket
+fn_NetSim_ARP_CopyPacket
+fn_NetSim_ARP_Metrics
+fn_NetSim_ARP_Finish
+fn_NetSim_ARP_Configure
+fn_NetSim_ARP_ConfigPacketTrace
+fn_NetSim_ARP_WritePacketTrace
+C:\Users\TETCOS-PC\Desktop\Industry_Workspace_v11.1\bin\bin_x86\libEthernet.dll>>fn_NetSim_Ethernet_Init
+fn_NetSim_Ethernet_Run
+fn_NetSim_Ethernet_Trace
+fn_NetSim_Ethernet_FreePacket
+fn_NetSim_Ethernet_CopyPacket
+fn_NetSim_Ethernet_Metrics
+fn_NetSim_Ethernet_Finish
+fn_NetSim_Ethernet_Configure
+fn_NetSim_Ethernet_ConfigPacketTrace
+fn_NetSim_Ethernet_WritePacketTrace
+C:\Users\TETCOS-PC\Desktop\Industry_Workspace_v11.1\bin\bin_x86\libSDN.dll>>fn_NetSim_OPEN_FLOW_Init
+fn_NetSim_OPEN_FLOW_Run
+fn_NetSim_OPEN_FLOW_Trace
+fn_NetSim_OPEN_FLOW_FreePacket
+fn_NetSim_OPEN_FLOW_CopyPacket
+fn_NetSim_OPEN_FLOW_Metrics
+fn_NetSim_OPEN_FLOW_Finish
+fn_NetSim_OPEN_FLOW_Configure
+fn_NetSim_OPEN_FLOW_ConfigPacketTrace
+fn_NetSim_OPEN_FLOW_WritePacketTrace
+C:\Users\TETCOS-PC\Desktop\Industry_Workspace_v11.1\bin\bin_x86\libTCP.dll>>fn_NetSim_TCP_Init
+fn_NetSim_TCP_Run
+fn_NetSim_TCP_Trace
+fn_NetSim_TCP_FreePacket
+fn_NetSim_TCP_CopyPacket
+fn_NetSim_TCP_Metrics
+fn_NetSim_TCP_Finish
+fn_NetSim_TCP_Configure
+fn_NetSim_TCP_ConfigPacketTrace
+fn_NetSim_TCP_WritePacketTrace
+C:\Users\TETCOS-PC\Desktop\Industry_Workspace_v11.1\bin\bin_x86\libUDP.dll>>fn_NetSim_UDP_Init
+fn_NetSim_UDP_Run
+fn_NetSim_UDP_Trace
+fn_NetSim_UDP_FreePacket
+fn_NetSim_UDP_CopyPacket
+fn_NetSim_UDP_Metrics
+fn_NetSim_UDP_Finish
+fn_NetSim_UDP_Configure
+fn_NetSim_UDP_ConfigPacketTrace
+fn_NetSim_UDP_WritePacketTrace
+Configuring 2 device..
+C:\Users\TETCOS-PC\Desktop\Industry_Workspace_v11.1\bin\bin_x86\libP2P.dll>>fn_NetSim_P2P_Init
+fn_NetSim_P2P_Run
+fn_NetSim_P2P_Trace
+fn_NetSim_P2P_FreePacket
+fn_NetSim_P2P_CopyPacket
+fn_NetSim_P2P_Metrics
+fn_NetSim_P2P_Finish
+fn_NetSim_P2P_Configure
+fn_NetSim_P2P_ConfigPacketTrace
+fn_NetSim_P2P_WritePacketTrace
+C:\Users\TETCOS-PC\Desktop\Industry_Workspace_v11.1\bin\bin_x86\libOSPF.dll>>fn_NetSim_OSPF_Init
+fn_NetSim_OSPF_Run
+fn_NetSim_OSPF_Trace
+fn_NetSim_OSPF_FreePacket
+fn_NetSim_OSPF_CopyPacket
+fn_NetSim_OSPF_Metrics
+fn_NetSim_OSPF_Finish
+fn_NetSim_OSPF_Configure
+fn_NetSim_OSPF_ConfigPacketTrace
+fn_NetSim_OSPF_WritePacketTrace
+Configuring 3 device..
+Configuring 4 device..
+Configuring 5 device..
+Configuring 6 device..
+Configuring 7 device..
+Configuring 8 device..
+Configuring 9 device..
+Configuring 10 device..
+Configuring 11 device..
+Configuring 12 device..
+Configuring 13 device..
+Configuring 14 device..
+Configuring 15 device..
+Configuring 16 device..
+Configuring 17 device..
+Configuring 18 device..
+Configuring 19 device..
+Configuring 20 device..
+Configuring 21 device..
+Configuring 22 device..
+Configuring 23 device..
+Configuring 24 device..
+Configuring 25 device..
+Configuring 26 device..
+Configuring 27 device..
+Configuring 28 device..
+Configuring 29 device..
+Configuring 30 device..
+Configuring 31 device..
+Configuring 32 device..
+Configuring 33 device..
+Configuring 34 device..
+Configuring 35 device..
+Configuring 36 device..
+Configuring 37 device..
+Configuring 38 device..
+Configuring 39 device..
+Configuring 40 device..
+Configuring 41 device..
+Configuring 42 device..
+Configuring 43 device..
+Configuring 44 device..
+Configuring 45 device..
+Configuring 46 device..
+Configuring 47 device..
+Configuring 48 device..
+Configuring 49 device..
+Configuring 50 device..
+Configuring 51 device..
+Configuring 52 device..
+Configuring 53 device..
+Configuring 54 device..
+Configuring 55 device..
+Configuring 56 device..
+Configuring 57 device..
+Configuring 58 device..
+Configuring 59 device..
+Configuring 60 device..
+Configuring 61 device..
+Configuring 62 device..
+Configuring 63 device..
+Configuring 64 device..
+Configuring 65 device..
+Configuring 66 device..
+Configuring 67 device..
+Configuring 68 device..
+Configuring 69 device..
+C:\Users\TETCOS-PC\Desktop\Industry_Workspace_v11.1\bin\bin_x86\libIEEE802.11.dll>>fn_NetSim_IEEE802_11_Init
+fn_NetSim_IEEE802_11_Run
+fn_NetSim_IEEE802_11_Trace
+fn_NetSim_IEEE802_11_FreePacket
+fn_NetSim_IEEE802_11_CopyPacket
+fn_NetSim_IEEE802_11_Metrics
+fn_NetSim_IEEE802_11_Finish
+fn_NetSim_IEEE802_11_Configure
+fn_NetSim_IEEE802_11_ConfigPacketTrace
+fn_NetSim_IEEE802_11_WritePacketTrace
+Configuring 70 device..
+Configuring 71 device..
+Configuring 72 device..
+Configuring 73 device..
+Configuring 74 device..
+Configuring 75 device..
+Configuring 76 device..
+Configuring 77 device..
+Configuring 78 device..
+Configuring 79 device..
+C:\Users\TETCOS-PC\Desktop\Industry_Workspace_v11.1\bin\bin_x86\libApplication.dll>>fn_NetSim_Application_Init
+fn_NetSim_Application_Run
+fn_NetSim_Application_Trace
+fn_NetSim_Application_FreePacket
+fn_NetSim_Application_CopyPacket
+fn_NetSim_Application_Metrics
+fn_NetSim_Application_Finish
+fn_NetSim_Application_Configure
+fn_NetSim_Application_ConfigPacketTrace
+fn_NetSim_Application_WritePacketTrace
+Loading binaries
+C:\Users\TETCOS-PC\Desktop\Industry_Workspace_v11.1\bin\bin_x86\SupportFunction.dll>>fn_NetSim_Packet_AddPacketToBuffer
+C:\Users\TETCOS-PC\Desktop\Industry_Workspace_v11.1\bin\bin_x86\SupportFunction.dll>>fn_NetSim_GetPacketFromBuffer
+C:\Users\TETCOS-PC\Desktop\Industry_Workspace_v11.1\bin\bin_x86\SupportFunction.dll>>fn_NetSim_GetBufferStatus
+Calling TCP init..
+TCP init done.
+Calling IP init..
+
+IP_Utility.c:124:  Public IP of device 1 Interface 1 is 11.3.1.2
+[31m[1m
+
+******
+In 413 line of IP_Routing.c file following error occurs
+Unable to open routing file C:\Users\TETCOS~1\AppData\Local\Temp\NetSim/\VIDEO_SERVER_STATIC_IP_ROUTE.txt
+*****
+[0m
+IP_Utility.c:124:  Public IP of device 9 Interface 1 is 11.3.1.1
+
+IP_Utility.c:124:  Public IP of device 10 Interface 1 is 11.3.1.1
+
+IP_Utility.c:124:  Public IP of device 11 Interface 1 is 11.3.1.1
+
+IP_Utility.c:124:  Public IP of device 12 Interface 1 is 11.3.1.1
+
+IP_Utility.c:124:  Public IP of device 13 Interface 1 is 11.3.1.1
+
+IP_Utility.c:124:  Public IP of device 14 Interface 1 is 11.3.1.1
+
+IP_Utility.c:124:  Public IP of device 15 Interface 1 is 11.3.1.1
+
+IP_Utility.c:124:  Public IP of device 16 Interface 1 is 11.3.1.1
+
+IP_Utility.c:124:  Public IP of device 17 Interface 1 is 11.3.1.1
+
+IP_Utility.c:124:  Public IP of device 18 Interface 1 is 11.3.1.1
+
+IP_Utility.c:124:  Public IP of device 19 Interface 1 is 11.4.1.2
+
+IP_Utility.c:124:  Public IP of device 20 Interface 1 is 11.4.1.2
+
+IP_Utility.c:124:  Public IP of device 21 Interface 1 is 11.4.1.2
+
+IP_Utility.c:124:  Public IP of device 22 Interface 1 is 11.4.1.2
+
+IP_Utility.c:124:  Public IP of device 23 Interface 1 is 11.4.1.2
+
+IP_Utility.c:124:  Public IP of device 24 Interface 1 is 11.4.1.2
+
+IP_Utility.c:124:  Public IP of device 25 Interface 1 is 11.4.1.2
+
+IP_Utility.c:124:  Public IP of device 26 Interface 1 is 11.4.1.2
+
+IP_Utility.c:124:  Public IP of device 27 Interface 1 is 11.4.1.2
+
+IP_Utility.c:124:  Public IP of device 28 Interface 1 is 11.4.1.2
+
+IP_Utility.c:124:  Public IP of device 29 Interface 1 is 11.5.1.1
+
+IP_Utility.c:124:  Public IP of device 30 Interface 1 is 11.5.1.1
+
+IP_Utility.c:124:  Public IP of device 31 Interface 1 is 11.5.1.1
+
+IP_Utility.c:124:  Public IP of device 32 Interface 1 is 11.5.1.1
+
+IP_Utility.c:124:  Public IP of device 33 Interface 1 is 11.5.1.1
+
+IP_Utility.c:124:  Public IP of device 34 Interface 1 is 11.5.1.1
+
+IP_Utility.c:124:  Public IP of device 35 Interface 1 is 11.5.1.1
+
+IP_Utility.c:124:  Public IP of device 36 Interface 1 is 11.5.1.1
+
+IP_Utility.c:124:  Public IP of device 37 Interface 1 is 11.5.1.1
+
+IP_Utility.c:124:  Public IP of device 38 Interface 1 is 11.5.1.1
+
+IP_Utility.c:124:  Public IP of device 39 Interface 1 is 11.7.1.2
+
+IP_Utility.c:124:  Public IP of device 40 Interface 1 is 11.7.1.2
+
+IP_Utility.c:124:  Public IP of device 41 Interface 1 is 11.7.1.2
+
+IP_Utility.c:124:  Public IP of device 42 Interface 1 is 11.7.1.2
+
+IP_Utility.c:124:  Public IP of device 43 Interface 1 is 11.7.1.2
+
+IP_Utility.c:124:  Public IP of device 44 Interface 1 is 11.7.1.2
+
+IP_Utility.c:124:  Public IP of device 45 Interface 1 is 11.7.1.2
+
+IP_Utility.c:124:  Public IP of device 46 Interface 1 is 11.7.1.2
+
+IP_Utility.c:124:  Public IP of device 47 Interface 1 is 11.7.1.2
+
+IP_Utility.c:124:  Public IP of device 48 Interface 1 is 11.7.1.2
+
+IP_Utility.c:124:  Public IP of device 49 Interface 1 is 11.7.1.2
+
+IP_Utility.c:124:  Public IP of device 50 Interface 1 is 11.7.1.2
+
+IP_Utility.c:124:  Public IP of device 51 Interface 1 is 11.7.1.2
+
+IP_Utility.c:124:  Public IP of device 52 Interface 1 is 11.7.1.2
+
+IP_Utility.c:124:  Public IP of device 53 Interface 1 is 11.7.1.2
+
+IP_Utility.c:124:  Public IP of device 54 Interface 1 is 11.7.1.2
+
+IP_Utility.c:124:  Public IP of device 55 Interface 1 is 11.7.1.2
+
+IP_Utility.c:124:  Public IP of device 56 Interface 1 is 11.7.1.2
+
+IP_Utility.c:124:  Public IP of device 57 Interface 1 is 11.7.1.2
+
+IP_Utility.c:124:  Public IP of device 58 Interface 1 is 11.7.1.2
+
+IP_Utility.c:124:  Public IP of device 59 Interface 1 is 11.8.1.1
+
+IP_Utility.c:124:  Public IP of device 60 Interface 1 is 11.8.1.1
+
+IP_Utility.c:124:  Public IP of device 61 Interface 1 is 11.8.1.1
+
+IP_Utility.c:124:  Public IP of device 62 Interface 1 is 11.8.1.1
+
+IP_Utility.c:124:  Public IP of device 63 Interface 1 is 11.8.1.1
+
+IP_Utility.c:124:  Public IP of device 64 Interface 1 is 11.8.1.1
+
+IP_Utility.c:124:  Public IP of device 65 Interface 1 is 11.8.1.1
+
+IP_Utility.c:124:  Public IP of device 66 Interface 1 is 11.8.1.1
+
+IP_Utility.c:124:  Public IP of device 67 Interface 1 is 11.8.1.1
+
+IP_Utility.c:124:  Public IP of device 68 Interface 1 is 11.8.1.1
+
+IP_Utility.c:124:  Public IP of device 70 Interface 1 is 11.3.1.2
+
+IP_Utility.c:124:  Public IP of device 71 Interface 1 is 11.3.1.2
+
+IP_Utility.c:124:  Public IP of device 72 Interface 1 is 11.3.1.2
+
+IP_Utility.c:124:  Public IP of device 73 Interface 1 is 11.3.1.2
+
+IP_Utility.c:124:  Public IP of device 74 Interface 1 is 11.3.1.2
+
+IP_Utility.c:124:  Public IP of device 75 Interface 1 is 11.3.1.2
+
+IP_Utility.c:124:  Public IP of device 76 Interface 1 is 11.3.1.2
+
+IP_Utility.c:124:  Public IP of device 77 Interface 1 is 11.3.1.2
+
+IP_Utility.c:124:  Public IP of device 78 Interface 1 is 11.3.1.2
+
+IP_Utility.c:124:  Public IP of device 79 Interface 1 is 11.3.1.2
+IP init done.
+Calling UDP init..
+UDP init done.
+Calling OSPF init..
+OSPF init done.
+Calling IEEE802_11 init..
+
+IEEE802_11_DSSSPhy.c:71:  Calculating receiver sensitivity for DSSS Phy
+Receiver sensitivity of DBPSK is -91.757656
+Receiver sensitivity of DQPSK is -85.329490
+Receiver sensitivity of CCK5.5 is -82.317656
+Receiver sensitivity of CCK11 is -79.137656
+IEEE802_11 init done.
+Calling Ethernet init..
+Ethernet init done.
+Calling ARP init..
+ARP init done.
+Calling Application init..
+Application init done.
+Calling P2P init..
+P2P init done.
+Calling OPEN_FLOW init..
+OPEN_FLOW init done.
+Calling TCP metrics...
+Calling IP metrics...
+Calling UDP metrics...
+Calling OSPF metrics...
+Calling IEEE802_11 metrics...
+Calling Ethernet metrics...
+Calling ARP metrics...
+Calling Application metrics...
+Calling P2P metrics...
+Calling OPEN_FLOW metrics...
+Calling TCP finish...
+Calling IP finish...
+Calling UDP finish...
+Calling OSPF finish...
+Calling IEEE802_11 finish...
+Calling Ethernet finish...
+Calling ARP finish...
+Calling Application finish...
+Calling P2P finish...
+Calling OPEN_FLOW finish...
+After free metrics
+After free Network
+After free kernel memory

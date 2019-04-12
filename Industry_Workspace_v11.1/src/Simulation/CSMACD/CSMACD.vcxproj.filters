@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="CSMACD.c" />
+    <ClCompile Include="CSMACD_enum.c" />
+    <ClCompile Include="CSMACD_Phy.c" />
+    <ClCompile Include="CSMACDMac.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CSMACD.h" />
+    <ClInclude Include="CSMACD_enum.h" />
+  </ItemGroup>
+</Project>

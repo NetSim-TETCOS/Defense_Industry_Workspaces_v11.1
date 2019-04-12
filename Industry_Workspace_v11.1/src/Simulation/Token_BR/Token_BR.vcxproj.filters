@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Token.c" />
+    <ClCompile Include="Token_enum.c" />
+    <ClCompile Include="Token_mac.c" />
+    <ClCompile Include="Token_phy.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Token.h" />
+    <ClInclude Include="Token_enum.h" />
+  </ItemGroup>
+</Project>

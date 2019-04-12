@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="802_22.c" />
+    <ClCompile Include="DCD.c" />
+    <ClCompile Include="DSFrame.c" />
+    <ClCompile Include="DSMAP.c" />
+    <ClCompile Include="DSx.c" />
+    <ClCompile Include="FCH.c" />
+    <ClCompile Include="Fragmentation.c" />
+    <ClCompile Include="Incumbent.c" />
+    <ClCompile Include="OFDMA.c" />
+    <ClCompile Include="PacketForward.c" />
+    <ClCompile Include="PropagationModel.c" />
+    <ClCompile Include="SCH.c" />
+    <ClCompile Include="SpectrumManager.c" />
+    <ClCompile Include="UCD.c" />
+    <ClCompile Include="USFrame.c" />
+    <ClCompile Include="USMAP.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="802_22.h" />
+    <ClInclude Include="DSx.h" />
+    <ClInclude Include="SpectrumManager.h" />
+  </ItemGroup>
+</Project>

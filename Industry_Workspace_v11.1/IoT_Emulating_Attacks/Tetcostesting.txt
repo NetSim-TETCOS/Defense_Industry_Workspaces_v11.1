@@ -1,2 +1,2 @@
-Network_Name>Internetworks
-Tooltip_Info>Description: 
+Network_Name>IoT
+Tooltip_Info>Emulating Network attacks in IoT

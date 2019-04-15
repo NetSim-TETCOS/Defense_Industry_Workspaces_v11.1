@@ -1,2 +1,2 @@
 Network_Name>Internetworks
-Tooltip_Info>Description: 
+Tooltip_Info>Inflight Entertainment System 
